@@ -1,0 +1,713 @@
+Testing map: allied-02
+OpenRA.Utility(1,1): Error: ^infantry.VoicedInfo.VoiceSet: Missing voice `Infantry`.
+OpenRA.Utility(1,1): Error: ^civilianinfantry.VoicedInfo.VoiceSet: Missing voice `Civilian`.
+OpenRA.Utility(1,1): Error: ^vehicle.VoicedInfo.VoiceSet: Missing voice `Vehicle`.
+OpenRA.Utility(1,1): Error: ^aircraft.VoicedInfo.VoiceSet: Missing voice `Heli`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RepairBuildings: Missing actor `fix`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RearmBuildings: Missing actor `hpad`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RearmBuildings: Missing actor `afld`.
+OpenRA.Utility(1,1): Error: dest.RepairableNearInfo.Buildings: Missing actor `spen`.
+OpenRA.Utility(1,1): Error: dest.RepairableNearInfo.Buildings: Missing actor `syrd`.
+OpenRA.Utility(1,1): Error: sub.RepairableNearInfo.Buildings: Missing actor `spen`.
+OpenRA.Utility(1,1): Error: sub.RepairableNearInfo.Buildings: Missing actor `syrd`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RepairBuildings: Missing actor `fix`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RearmBuildings: Missing actor `hpad`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RearmBuildings: Missing actor `afld`.
+OpenRA.Utility(1,1): Error: Actor type `mpspawn` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `waypoint` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `player` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `world` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `editorworld` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `jumpjet` defines VisibilityType.Footprint in `OpenRA.Mods.Common.Traits.HiddenUnderFogInfo` but does not have any footprint cells!
+OpenRA.Utility(1,1): Error: Actor type `gawall` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `power` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `refinery` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `barracks` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `radar` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `repairpad` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `nawall` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `cafncb` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `cafncw` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `gasand` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `zephusk` defines VisibilityType.Footprint in `OpenRA.Mods.Common.Traits.HiddenUnderFogInfo` but does not have any footprint cells!
+OpenRA.Utility(1,1): Error: Actor type `tree01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree06` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree07` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree08` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree09` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree10` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree11` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree12` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree13` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree14` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree15` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree16` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree17` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree18` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree19` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree20` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree21` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree22` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree23` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree24` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree25` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree26` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree27` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree28` does not define a default visibility type!
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction Random does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction random-allies does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction random-soviets does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction america does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction germany does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction england does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction france does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction korea does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction cuba does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction libya does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction iraq does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction russia does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Error: Actor cow is not constructible; failure: ActorInfo("cow") failed to initialize because of the following:
+Missing:
+OpenRA.Mods.Common.Traits.AttackBaseInfo 
+Unresolved:
+OpenRA.Mods.Common.Traits.AutoTargetInfo: { OpenRA.Mods.Common.Traits.AttackBaseInfo }
+
+OpenRA.Utility(1,1): Error: Actor type `^ironcurtainable` uses upgrade `invulnerability` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `^ironcurtainable` uses upgrade `invulnerability` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `deployed` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `paraweapon` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `eliteparaweapon` that is not granted by anything!
+OpenRA.Utility(1,1): Warning: Actor type `spy` grants upgrade `disguise` that is not used by anything!
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.MobileInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.TransformsInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.RepairableInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.PassengerInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.AttackMoveInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.GuardInfo.
+OpenRA.Utility(1,1): Error: OpenRA.Mods.Common.Lint.CheckVoiceReferences failed with exception: OpenRA.Mods.Common.Lint.CheckVoiceReferences
+Testing map: arctic-circle
+OpenRA.Utility(1,1): Error: ^infantry.VoicedInfo.VoiceSet: Missing voice `Infantry`.
+OpenRA.Utility(1,1): Error: ^civilianinfantry.VoicedInfo.VoiceSet: Missing voice `Civilian`.
+OpenRA.Utility(1,1): Error: ^vehicle.VoicedInfo.VoiceSet: Missing voice `Vehicle`.
+OpenRA.Utility(1,1): Error: ^aircraft.VoicedInfo.VoiceSet: Missing voice `Heli`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RepairBuildings: Missing actor `fix`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RearmBuildings: Missing actor `hpad`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RearmBuildings: Missing actor `afld`.
+OpenRA.Utility(1,1): Error: dest.RepairableNearInfo.Buildings: Missing actor `spen`.
+OpenRA.Utility(1,1): Error: dest.RepairableNearInfo.Buildings: Missing actor `syrd`.
+OpenRA.Utility(1,1): Error: sub.RepairableNearInfo.Buildings: Missing actor `spen`.
+OpenRA.Utility(1,1): Error: sub.RepairableNearInfo.Buildings: Missing actor `syrd`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RepairBuildings: Missing actor `fix`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RearmBuildings: Missing actor `hpad`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RearmBuildings: Missing actor `afld`.
+OpenRA.Utility(1,1): Error: Actor type `mpspawn` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `waypoint` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `player` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `world` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `editorworld` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `jumpjet` defines VisibilityType.Footprint in `OpenRA.Mods.Common.Traits.HiddenUnderFogInfo` but does not have any footprint cells!
+OpenRA.Utility(1,1): Error: Actor type `gawall` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `power` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `refinery` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `barracks` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `radar` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `repairpad` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `nawall` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `cafncb` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `cafncw` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `gasand` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `zephusk` defines VisibilityType.Footprint in `OpenRA.Mods.Common.Traits.HiddenUnderFogInfo` but does not have any footprint cells!
+OpenRA.Utility(1,1): Error: Actor type `tree01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree06` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree07` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree08` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree09` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree10` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree11` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree12` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree13` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree14` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree15` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree16` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree17` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree18` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree19` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree20` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree21` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree22` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree23` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree24` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree25` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree26` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree27` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree28` does not define a default visibility type!
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction Random does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction random-allies does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction random-soviets does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction america does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction germany does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction england does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction france does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction korea does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction cuba does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction libya does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction iraq does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction russia does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Error: Actor cow is not constructible; failure: ActorInfo("cow") failed to initialize because of the following:
+Missing:
+OpenRA.Mods.Common.Traits.AttackBaseInfo 
+Unresolved:
+OpenRA.Mods.Common.Traits.AutoTargetInfo: { OpenRA.Mods.Common.Traits.AttackBaseInfo }
+
+OpenRA.Utility(1,1): Error: Actor type `^ironcurtainable` uses upgrade `invulnerability` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `^ironcurtainable` uses upgrade `invulnerability` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `deployed` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `paraweapon` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `eliteparaweapon` that is not granted by anything!
+OpenRA.Utility(1,1): Warning: Actor type `spy` grants upgrade `disguise` that is not used by anything!
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.MobileInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.TransformsInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.RepairableInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.PassengerInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.AttackMoveInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.GuardInfo.
+OpenRA.Utility(1,1): Error: OpenRA.Mods.Common.Lint.CheckVoiceReferences failed with exception: OpenRA.Mods.Common.Lint.CheckVoiceReferences
+Testing map: Blank
+OpenRA.Utility(1,1): Error: ^infantry.VoicedInfo.VoiceSet: Missing voice `Infantry`.
+OpenRA.Utility(1,1): Error: ^civilianinfantry.VoicedInfo.VoiceSet: Missing voice `Civilian`.
+OpenRA.Utility(1,1): Error: ^vehicle.VoicedInfo.VoiceSet: Missing voice `Vehicle`.
+OpenRA.Utility(1,1): Error: ^aircraft.VoicedInfo.VoiceSet: Missing voice `Heli`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RepairBuildings: Missing actor `fix`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RearmBuildings: Missing actor `hpad`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RearmBuildings: Missing actor `afld`.
+OpenRA.Utility(1,1): Error: dest.RepairableNearInfo.Buildings: Missing actor `spen`.
+OpenRA.Utility(1,1): Error: dest.RepairableNearInfo.Buildings: Missing actor `syrd`.
+OpenRA.Utility(1,1): Error: sub.RepairableNearInfo.Buildings: Missing actor `spen`.
+OpenRA.Utility(1,1): Error: sub.RepairableNearInfo.Buildings: Missing actor `syrd`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RepairBuildings: Missing actor `fix`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RearmBuildings: Missing actor `hpad`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RearmBuildings: Missing actor `afld`.
+OpenRA.Utility(1,1): Error: Actor type `mpspawn` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `waypoint` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `player` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `world` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `editorworld` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `jumpjet` defines VisibilityType.Footprint in `OpenRA.Mods.Common.Traits.HiddenUnderFogInfo` but does not have any footprint cells!
+OpenRA.Utility(1,1): Error: Actor type `gawall` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `power` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `refinery` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `barracks` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `radar` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `repairpad` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `nawall` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `cafncb` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `cafncw` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `gasand` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `zephusk` defines VisibilityType.Footprint in `OpenRA.Mods.Common.Traits.HiddenUnderFogInfo` but does not have any footprint cells!
+OpenRA.Utility(1,1): Error: Actor type `tree01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree06` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree07` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree08` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree09` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree10` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree11` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree12` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree13` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree14` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree15` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree16` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree17` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree18` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree19` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree20` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree21` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree22` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree23` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree24` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree25` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree26` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree27` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree28` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Invalid race allies chosen for player Neutral.
+OpenRA.Utility(1,1): Error: Invalid race allies chosen for player Creeps.
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction Random does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction random-allies does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction random-soviets does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction america does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction germany does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction england does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction france does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction korea does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction cuba does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction libya does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction iraq does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction russia does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Error: Actor cow is not constructible; failure: ActorInfo("cow") failed to initialize because of the following:
+Missing:
+OpenRA.Mods.Common.Traits.AttackBaseInfo 
+Unresolved:
+OpenRA.Mods.Common.Traits.AutoTargetInfo: { OpenRA.Mods.Common.Traits.AttackBaseInfo }
+
+OpenRA.Utility(1,1): Error: Actor type `^ironcurtainable` uses upgrade `invulnerability` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `^ironcurtainable` uses upgrade `invulnerability` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `deployed` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `paraweapon` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `eliteparaweapon` that is not granted by anything!
+OpenRA.Utility(1,1): Warning: Actor type `spy` grants upgrade `disguise` that is not used by anything!
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.MobileInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.TransformsInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.RepairableInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.PassengerInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.AttackMoveInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.GuardInfo.
+OpenRA.Utility(1,1): Error: OpenRA.Mods.Common.Lint.CheckVoiceReferences failed with exception: OpenRA.Mods.Common.Lint.CheckVoiceReferences
+Testing map: Blank
+OpenRA.Utility(1,1): Error: ^infantry.VoicedInfo.VoiceSet: Missing voice `Infantry`.
+OpenRA.Utility(1,1): Error: ^civilianinfantry.VoicedInfo.VoiceSet: Missing voice `Civilian`.
+OpenRA.Utility(1,1): Error: ^vehicle.VoicedInfo.VoiceSet: Missing voice `Vehicle`.
+OpenRA.Utility(1,1): Error: ^aircraft.VoicedInfo.VoiceSet: Missing voice `Heli`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RepairBuildings: Missing actor `fix`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RearmBuildings: Missing actor `hpad`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RearmBuildings: Missing actor `afld`.
+OpenRA.Utility(1,1): Error: dest.RepairableNearInfo.Buildings: Missing actor `spen`.
+OpenRA.Utility(1,1): Error: dest.RepairableNearInfo.Buildings: Missing actor `syrd`.
+OpenRA.Utility(1,1): Error: sub.RepairableNearInfo.Buildings: Missing actor `spen`.
+OpenRA.Utility(1,1): Error: sub.RepairableNearInfo.Buildings: Missing actor `syrd`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RepairBuildings: Missing actor `fix`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RearmBuildings: Missing actor `hpad`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RearmBuildings: Missing actor `afld`.
+OpenRA.Utility(1,1): Error: Actor type `world` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `mpspawn` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `waypoint` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `player` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `editorworld` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `jumpjet` defines VisibilityType.Footprint in `OpenRA.Mods.Common.Traits.HiddenUnderFogInfo` but does not have any footprint cells!
+OpenRA.Utility(1,1): Error: Actor type `gawall` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `power` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `refinery` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `barracks` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `radar` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `repairpad` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `nawall` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `cafncb` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `cafncw` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `gasand` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `zephusk` defines VisibilityType.Footprint in `OpenRA.Mods.Common.Traits.HiddenUnderFogInfo` but does not have any footprint cells!
+OpenRA.Utility(1,1): Error: Actor type `tree01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree06` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree07` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree08` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree09` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree10` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree11` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree12` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree13` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree14` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree15` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree16` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree17` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree18` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree19` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree20` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree21` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree22` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree23` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree24` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree25` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree26` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree27` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree28` does not define a default visibility type!
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction Random does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction random-allies does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction random-soviets does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction america does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction germany does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction england does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction france does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction korea does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction cuba does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction libya does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction iraq does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction russia does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Error: Actor cow is not constructible; failure: ActorInfo("cow") failed to initialize because of the following:
+Missing:
+OpenRA.Mods.Common.Traits.AttackBaseInfo 
+Unresolved:
+OpenRA.Mods.Common.Traits.AutoTargetInfo: { OpenRA.Mods.Common.Traits.AttackBaseInfo }
+
+OpenRA.Utility(1,1): Error: Actor type `^ironcurtainable` uses upgrade `invulnerability` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `^ironcurtainable` uses upgrade `invulnerability` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `deployed` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `paraweapon` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `eliteparaweapon` that is not granted by anything!
+OpenRA.Utility(1,1): Warning: Actor type `spy` grants upgrade `disguise` that is not used by anything!
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.MobileInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.TransformsInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.RepairableInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.PassengerInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.AttackMoveInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.GuardInfo.
+OpenRA.Utility(1,1): Error: OpenRA.Mods.Common.Lint.CheckVoiceReferences failed with exception: OpenRA.Mods.Common.Lint.CheckVoiceReferences
+Testing map: dustbowl
+OpenRA.Utility(1,1): Error: ^infantry.VoicedInfo.VoiceSet: Missing voice `Infantry`.
+OpenRA.Utility(1,1): Error: ^civilianinfantry.VoicedInfo.VoiceSet: Missing voice `Civilian`.
+OpenRA.Utility(1,1): Error: ^vehicle.VoicedInfo.VoiceSet: Missing voice `Vehicle`.
+OpenRA.Utility(1,1): Error: ^aircraft.VoicedInfo.VoiceSet: Missing voice `Heli`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RepairBuildings: Missing actor `fix`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RearmBuildings: Missing actor `hpad`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RearmBuildings: Missing actor `afld`.
+OpenRA.Utility(1,1): Error: dest.RepairableNearInfo.Buildings: Missing actor `spen`.
+OpenRA.Utility(1,1): Error: dest.RepairableNearInfo.Buildings: Missing actor `syrd`.
+OpenRA.Utility(1,1): Error: sub.RepairableNearInfo.Buildings: Missing actor `spen`.
+OpenRA.Utility(1,1): Error: sub.RepairableNearInfo.Buildings: Missing actor `syrd`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RepairBuildings: Missing actor `fix`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RearmBuildings: Missing actor `hpad`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RearmBuildings: Missing actor `afld`.
+OpenRA.Utility(1,1): Error: Actor type `mpspawn` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `waypoint` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `player` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `world` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `editorworld` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `jumpjet` defines VisibilityType.Footprint in `OpenRA.Mods.Common.Traits.HiddenUnderFogInfo` but does not have any footprint cells!
+OpenRA.Utility(1,1): Error: Actor type `gawall` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `power` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `refinery` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `barracks` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `radar` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `repairpad` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `nawall` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `cafncb` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `cafncw` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `gasand` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `zephusk` defines VisibilityType.Footprint in `OpenRA.Mods.Common.Traits.HiddenUnderFogInfo` but does not have any footprint cells!
+OpenRA.Utility(1,1): Error: Actor type `tree01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree06` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree07` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree08` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree09` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree10` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree11` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree12` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree13` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree14` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree15` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree16` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree17` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree18` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree19` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree20` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree21` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree22` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree23` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree24` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree25` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree26` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree27` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree28` does not define a default visibility type!
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction Random does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction random-allies does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction random-soviets does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction america does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction germany does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction england does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction france does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction korea does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction cuba does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction libya does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction iraq does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction russia does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Error: Actor cow is not constructible; failure: ActorInfo("cow") failed to initialize because of the following:
+Missing:
+OpenRA.Mods.Common.Traits.AttackBaseInfo 
+Unresolved:
+OpenRA.Mods.Common.Traits.AutoTargetInfo: { OpenRA.Mods.Common.Traits.AttackBaseInfo }
+
+OpenRA.Utility(1,1): Error: Actor type `^ironcurtainable` uses upgrade `invulnerability` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `^ironcurtainable` uses upgrade `invulnerability` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `deployed` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `paraweapon` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `eliteparaweapon` that is not granted by anything!
+OpenRA.Utility(1,1): Warning: Actor type `spy` grants upgrade `disguise` that is not used by anything!
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.MobileInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.TransformsInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.RepairableInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.PassengerInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.AttackMoveInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.GuardInfo.
+OpenRA.Utility(1,1): Error: OpenRA.Mods.Common.Lint.CheckVoiceReferences failed with exception: OpenRA.Mods.Common.Lint.CheckVoiceReferences
+Testing map: soviet-01
+OpenRA.Utility(1,1): Error: ^infantry.VoicedInfo.VoiceSet: Missing voice `Infantry`.
+OpenRA.Utility(1,1): Error: ^civilianinfantry.VoicedInfo.VoiceSet: Missing voice `Civilian`.
+OpenRA.Utility(1,1): Error: ^vehicle.VoicedInfo.VoiceSet: Missing voice `Vehicle`.
+OpenRA.Utility(1,1): Error: ^aircraft.VoicedInfo.VoiceSet: Missing voice `Heli`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RepairBuildings: Missing actor `fix`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RearmBuildings: Missing actor `hpad`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RearmBuildings: Missing actor `afld`.
+OpenRA.Utility(1,1): Error: dest.RepairableNearInfo.Buildings: Missing actor `spen`.
+OpenRA.Utility(1,1): Error: dest.RepairableNearInfo.Buildings: Missing actor `syrd`.
+OpenRA.Utility(1,1): Error: sub.RepairableNearInfo.Buildings: Missing actor `spen`.
+OpenRA.Utility(1,1): Error: sub.RepairableNearInfo.Buildings: Missing actor `syrd`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RepairBuildings: Missing actor `fix`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RearmBuildings: Missing actor `hpad`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RearmBuildings: Missing actor `afld`.
+OpenRA.Utility(1,1): Error: Actor type `mpspawn` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `waypoint` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `player` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `world` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `editorworld` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `jumpjet` defines VisibilityType.Footprint in `OpenRA.Mods.Common.Traits.HiddenUnderFogInfo` but does not have any footprint cells!
+OpenRA.Utility(1,1): Error: Actor type `gawall` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `power` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `refinery` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `barracks` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `radar` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `repairpad` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `nawall` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `cafncb` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `cafncw` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `gasand` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `zephusk` defines VisibilityType.Footprint in `OpenRA.Mods.Common.Traits.HiddenUnderFogInfo` but does not have any footprint cells!
+OpenRA.Utility(1,1): Error: Actor type `tree01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree06` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree07` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree08` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree09` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree10` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree11` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree12` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree13` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree14` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree15` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree16` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree17` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree18` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree19` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree20` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree21` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree22` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree23` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree24` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree25` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree26` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree27` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree28` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Duplicate spawn point locations detected.
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction Random does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction random-allies does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction random-soviets does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction america does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction germany does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction england does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction france does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction korea does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction cuba does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction libya does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction iraq does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction russia does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Error: Actor cow is not constructible; failure: ActorInfo("cow") failed to initialize because of the following:
+Missing:
+OpenRA.Mods.Common.Traits.AttackBaseInfo 
+Unresolved:
+OpenRA.Mods.Common.Traits.AutoTargetInfo: { OpenRA.Mods.Common.Traits.AttackBaseInfo }
+
+OpenRA.Utility(1,1): Error: Actor type `^ironcurtainable` uses upgrade `invulnerability` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `^ironcurtainable` uses upgrade `invulnerability` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `deployed` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `paraweapon` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `eliteparaweapon` that is not granted by anything!
+OpenRA.Utility(1,1): Warning: Actor type `spy` grants upgrade `disguise` that is not used by anything!
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.MobileInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.TransformsInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.RepairableInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.PassengerInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.AttackMoveInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.GuardInfo.
+OpenRA.Utility(1,1): Error: OpenRA.Mods.Common.Lint.CheckVoiceReferences failed with exception: OpenRA.Mods.Common.Lint.CheckVoiceReferences
+Testing map: RA2 Test
+OpenRA.Utility(1,1): Error: ^infantry.VoicedInfo.VoiceSet: Missing voice `Infantry`.
+OpenRA.Utility(1,1): Error: ^civilianinfantry.VoicedInfo.VoiceSet: Missing voice `Civilian`.
+OpenRA.Utility(1,1): Error: ^vehicle.VoicedInfo.VoiceSet: Missing voice `Vehicle`.
+OpenRA.Utility(1,1): Error: ^aircraft.VoicedInfo.VoiceSet: Missing voice `Heli`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RepairBuildings: Missing actor `fix`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RearmBuildings: Missing actor `hpad`.
+OpenRA.Utility(1,1): Error: jumpjet.HelicopterInfo.RearmBuildings: Missing actor `afld`.
+OpenRA.Utility(1,1): Error: dest.RepairableNearInfo.Buildings: Missing actor `spen`.
+OpenRA.Utility(1,1): Error: dest.RepairableNearInfo.Buildings: Missing actor `syrd`.
+OpenRA.Utility(1,1): Error: sub.RepairableNearInfo.Buildings: Missing actor `spen`.
+OpenRA.Utility(1,1): Error: sub.RepairableNearInfo.Buildings: Missing actor `syrd`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RepairBuildings: Missing actor `fix`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RearmBuildings: Missing actor `hpad`.
+OpenRA.Utility(1,1): Error: zephusk.HelicopterInfo.RearmBuildings: Missing actor `afld`.
+OpenRA.Utility(1,1): Error: Actor type `mpspawn` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `waypoint` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `srock05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `trock05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `player` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `world` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `editorworld` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `jumpjet` defines VisibilityType.Footprint in `OpenRA.Mods.Common.Traits.HiddenUnderFogInfo` but does not have any footprint cells!
+OpenRA.Utility(1,1): Error: Actor type `gawall` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `power` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `refinery` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `barracks` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `radar` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `repairpad` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `nawall` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `cafncb` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `cafncw` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `gasand` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `zephusk` defines VisibilityType.Footprint in `OpenRA.Mods.Common.Traits.HiddenUnderFogInfo` but does not have any footprint cells!
+OpenRA.Utility(1,1): Error: Actor type `tree01` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree02` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree03` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree04` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree05` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree06` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree07` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree08` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree09` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree10` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree11` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree12` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree13` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree14` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree15` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree16` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree17` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree18` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree19` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree20` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree21` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree22` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree23` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree24` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree25` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree26` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree27` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Actor type `tree28` does not define a default visibility type!
+OpenRA.Utility(1,1): Error: Invalid race allies chosen for player Neutral.
+OpenRA.Utility(1,1): Error: Invalid race allies chosen for player Creeps.
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction Random does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction random-allies does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction random-soviets does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction america does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction germany does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction england does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction france does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction korea does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction cuba does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction libya does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction iraq does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Warning: Sprite image cow from actor cow of faction russia does not define sequence prefix prone- from field ProneSequencePrefix of OpenRA.Mods.Common.Traits.TakeCoverInfo
+OpenRA.Utility(1,1): Error: Actor cow is not constructible; failure: ActorInfo("cow") failed to initialize because of the following:
+Missing:
+OpenRA.Mods.Common.Traits.AttackBaseInfo 
+Unresolved:
+OpenRA.Mods.Common.Traits.AutoTargetInfo: { OpenRA.Mods.Common.Traits.AttackBaseInfo }
+
+OpenRA.Utility(1,1): Error: Actor type `^ironcurtainable` uses upgrade `invulnerability` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `^ironcurtainable` uses upgrade `invulnerability` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `deployed` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `paraweapon` that is not granted by anything!
+OpenRA.Utility(1,1): Error: Actor type `e1` uses upgrade `eliteparaweapon` that is not granted by anything!
+OpenRA.Utility(1,1): Warning: Actor type `spy` grants upgrade `disguise` that is not used by anything!
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.MobileInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.TransformsInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.RepairableInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.PassengerInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.AttackMoveInfo.
+OpenRA.Utility(1,1): Error: Actor ^amcv.colorpicker using voice set AlliedVehicleVoice does not define Action voice required by OpenRA.Mods.Common.Traits.GuardInfo.
+OpenRA.Utility(1,1): Error: OpenRA.Mods.Common.Lint.CheckVoiceReferences failed with exception: OpenRA.Mods.Common.Lint.CheckVoiceReferences
+Errors: 579

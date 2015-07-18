@@ -191,14 +191,6 @@ deso:
 		Weapon: RadBeamWeaponE
 		UpgradeTypes: eliteweapon
 		UpgradeMinEnabledLevel: 1
-	# Armament@deployed:
-	# 	Weapon: RadEruptionWeapon
-	# Armament@deployed-elite:
-	# 	Weapon: RadEruptionWeaponE
-	# Armament@ifv:
-	# 	Weapon: CRRadBeamWeapon
-	# Armament@ifv-elite:
-	# 	Weapon: CRRadBeamWeaponE
 	AttackFrontal:
 	WithInfantryBody:
 	Voiced:
@@ -250,3 +242,4 @@ ivan:
 	TakeCover:
 	WithInfantryBody:
 		IdleSequences: idle1,idle2
+
