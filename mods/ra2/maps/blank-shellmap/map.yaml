@@ -42,7 +42,9 @@ Rules:
 		-MPStartLocations:
 		LoadWidgetAtGameStart:
 			Widget: MAINMENU
-
+		MusicPlaylist:
+			StartingMusic: grinder
+			LoopStartingMusic: True
 Sequences:
 
 VoxelSequences:
